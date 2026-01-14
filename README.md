@@ -1,17 +1,18 @@
 ## Hi there I am Abirami 👋
 
-I am an undergraduate student passionate about software development and technology.
-I enjoy exploring programming concepts and building small projects to strengthen my technical skills.
+I am an undergraduate student passionate about software development and technology. 
+I enjoy exploring programming concepts and building small projects to strengthen my technical skills. 
+I also love exploring new technologies and learning new things, as it helps me grow, stay curious, and continuously improve myself 
 
 ### Skills
-Java
-SQL
-C / C++
+Java,
+SQL,
+C / C++,
 Python
 
 ### Currently Learning
-Data Structures
-Backend Fundamentals
+Data Structures,
+Backend Fundamentals,
 Problem Solving
 
 ### Connect with me :
