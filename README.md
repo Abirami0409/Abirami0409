@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there I am Abirami 👋
 
-<!--
-**Abirami0409/Abirami0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate student passionate about software development and technology.
+I enjoy exploring programming concepts and building small projects to strengthen my technical skills.
 
-Here are some ideas to get you started:
+### Skills
+Java
+SQL
+C / C++
+Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+Data Structures
+Backend Fundamentals
+Problem Solving
+
+### Connect with me :
+ https://www.linkedin.com/in/abirami-srinivasan-04a48b358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_ap
